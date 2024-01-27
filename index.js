@@ -26,6 +26,26 @@ app.get("/api/books", (req, res) => {
   });
 });
 
+
+app.get("/api/search", (req, res) => {
+  const searchTerm = req.query.q;
+
+  if (!searchTerm) {
+    return res.status(400).json({ message: "Search term is required" });
+  }
+
+  const matchingBooks = books.filter((book) =>
+    book.name.toLowerCase().includes(searchTerm.toLowerCase())
+  );
+
+  if (matchingBooks.length === 0) {
+    return res.json({ message: "No results found" });
+  }
+
+  res.json(matchingBooks);
+});
+
+
 app.listen(port, () => {
   console.log(`Server is listening at http://localhost:${port}`);
 });
