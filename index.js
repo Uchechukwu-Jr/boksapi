@@ -2,20 +2,31 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const port = 3000;
-const books = require("./db/books");
+//const books = require("./db/books");
+const Data = require("./Data.json");
+const Books = require("./db/BooksReverse.json");
 
 app.use(cors());
 
 //get all books with pagination
 app.get("/api/books", (req, res) => {
+  const limit = parseInt(req.query.limit);
+  if (!isNaN(limit) && limit > 0) {
+    res.json(Books.slice(0, limit));
+  } else {
+    res.json(Books);
+  }
+});
+
+/*app.get("/api/books", (req, res) => {
   const page = parseInt(req.query.page) || 1;
-  const pageSize = parseInt(req.query.pageSize) || 10;
+  const pageSize = parseInt(req.query.pageSize) || 3;
 
   const startIndex = (page - 1) * pageSize;
   const endIndex = startIndex + pageSize;
 
-  const paginatedBooks = books.slice(startIndex, endIndex);
-  const totalBooks = books.length;
+  const paginatedBooks = Books.slice(startIndex, endIndex);
+  const totalBooks = Books.length;
 
   res.json({
     totalBooks: totalBooks,
@@ -24,28 +35,46 @@ app.get("/api/books", (req, res) => {
     pageSize: pageSize,
     books: paginatedBooks,
   });
+});*/
+
+app.get("/api/emails", (req, res) => {
+  res.json(Data);
 });
 
+//get a single books by ID
+app.get("/api/books/:id", (req, res) => {
+  const bookId = req.params.id;
+  console.log(bookId);
+  const book = Books.find((book) => book.id === bookId);
+
+  if (book) {
+    res.json(book);
+  } else {
+    res.status(404).json({ error: "Book not found" });
+  }
+});
 
 app.get("/api/search", (req, res) => {
   const searchTerm = req.query.q;
 
   if (!searchTerm) {
-    return res.status(400).json({ message: "Search term is required" });
   }
 
-  const matchingBooks = books.filter((book) =>
-    book.name.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  const decodedSearchTerm = decodeURIComponent(searchTerm);
+  console.log(decodedSearchTerm);
+  const searchWords = decodedSearchTerm.toLowerCase().split(/\s+/);
 
-  if (matchingBooks.length === 0) {
-    return res.json({ message: "No results found" });
+  const matchingBooks = Books.filter((book) => {
+    return searchWords.every((word) => book.name.toLowerCase().includes(word));
+  });
+
+  if (matchingBooks.length > 0) {
+    res.json(matchingBooks);
+  } else {
+    res
+      .status(200)
+      .json({ message: "Search successful, but no results found" });
   }
-
-  res.json(matchingBooks);
 });
 
-
-app.listen(port, () => {
-  console.log(`Server is listening at http://localhost:${port}`);
-});
+app.listen(port, () => {});
