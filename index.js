@@ -8,7 +8,7 @@ const Books = require("./db/BooksReverse.json");
 
 app.use(cors());
 
-//get all books with pagination
+//get all books with optional limit
 app.get("/api/books", (req, res) => {
   const limit = parseInt(req.query.limit);
   if (!isNaN(limit) && limit > 0) {
@@ -17,25 +17,6 @@ app.get("/api/books", (req, res) => {
     res.json(Books);
   }
 });
-
-/*app.get("/api/books", (req, res) => {
-  const page = parseInt(req.query.page) || 1;
-  const pageSize = parseInt(req.query.pageSize) || 3;
-
-  const startIndex = (page - 1) * pageSize;
-  const endIndex = startIndex + pageSize;
-
-  const paginatedBooks = Books.slice(startIndex, endIndex);
-  const totalBooks = Books.length;
-
-  res.json({
-    totalBooks: totalBooks,
-    totalPages: Math.ceil(totalBooks / pageSize),
-    currentPage: page,
-    pageSize: pageSize,
-    books: paginatedBooks,
-  });
-});*/
 
 app.get("/api/emails", (req, res) => {
   res.json(Data);
@@ -51,6 +32,35 @@ app.get("/api/books/:id", (req, res) => {
     res.json(book);
   } else {
     res.status(404).json({ error: "Book not found" });
+  }
+});
+
+// get genres
+app.get("/api/genres", (req, res) => {
+  // Extract genres from all books and flatten the array
+  const allGenres = Books.reduce(
+    (genres, book) => genres.concat(book.genre),
+    []
+  );
+  // Get unique genres by converting the array to a Set and then back to an array
+  const Genres = [...new Set(allGenres)];
+  res.json(Genres);
+});
+
+// get books by genre
+app.get("/api/genres/:genre", (req, res) => {
+  const requestedGenre = req.params.genre.toLowerCase();
+
+  const filteredBooks = Books.filter((book) =>
+    book.genre.some((genre) => genre.toLowerCase() === requestedGenre)
+  );
+
+  if (filteredBooks.length === 0) {
+    res
+      .status(404)
+      .json({ message: `No books found for genre: ${requestedGenre}` });
+  } else {
+    res.json(filteredBooks);
   }
 });
 
@@ -77,4 +87,6 @@ app.get("/api/search", (req, res) => {
   }
 });
 
-app.listen(port, () => {});
+app.listen(port, () => {
+  console.log(`app is listening on port ${port}`);
+});
