@@ -1,0 +1,23 @@
+const express = require('express');
+const app = express();
+const books = require('./books.json');
+
+// Endpoint to get the list of series
+app.get('/series', (req, res) => {
+  // Filter out the books with series information
+  const seriesBooks = books.filter(book => book.series !== null);
+
+  // Extract series information
+  const seriesList = seriesBooks.map(book => book.series.seriesTitle);
+
+  // Remove duplicates
+  const uniqueSeriesList = [...new Set(seriesList)];
+
+  res.json(uniqueSeriesList);
+});
+
+// Start the server
+const PORT = 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});

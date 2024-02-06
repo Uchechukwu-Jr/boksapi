@@ -365,7 +365,7 @@
     "id": "775d1204-d76f-4bf2-9236-4235a188d0ff",
     "name": "To Kill a Mockingbird",
     "author": "Harper Lee",
-    "series": null,
+     
     "releaseInfo": {
       "day": 11,
       "month": "July",
@@ -582,7 +582,7 @@
     "id": "37a2d978-6f8a-4a23-afd5-00f6c2e50f4c",
     "name": "Pride and Prejudice",
     "author": "Jane Austen",
-    "series": null,
+     
     "releaseInfo": {
       "day": 28,
       "month": "January",
@@ -645,7 +645,7 @@
     "id": "1649fb7a-17a6-4555-b926-83bfe22e2777",
     "name": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
-    "series": null,
+     
     "releaseInfo": {
       "day": 10,
       "month": "April",
@@ -664,7 +664,7 @@
     "id": "1ecb4e5e-9176-441d-8c49-e23e4debfd08",
     "name": "The Silent Patient",
     "author": "Alex Michaelides",
-    "series": null,
+     
     "releaseInfo": {
       "day": 5,
       "month": "February",
@@ -683,7 +683,7 @@
     "id": "9967e20f-536e-4d1c-8a01-f3ae1ce8c7e0",
     "name": "Hero",
     "author": "Thomas Perry",
-    "series": null,
+     
     "releaseInfo": {
       "day": 16,
       "month": "January ",
@@ -710,7 +710,7 @@
     "id": "ed478f1f-eee0-4615-b847-5510558f0f9a",
     "name": "De entre los muertos",
     "author": "Burton Hare",
-    "series": null,
+     
     "releaseInfo": {
       "day": "",
       "month": "",
@@ -729,7 +729,7 @@
     "id": "ab680bac-9131-414a-ab02-50dd8985de0e",
     "name": "Que son regne vienne",
     "author": "Gilles Milo-Vaceri",
-    "series": null,
+     
     "releaseInfo": {
       "day": 25,
       "month": "September",
@@ -792,7 +792,7 @@
     "id": "f2c990db-1111-40c3-9e29-54de2adad616",
     "name": "Helle and Death",
     "author": "Oskar Jensen",
-    "series": null,
+     
     "releaseInfo": {
       "day": 20,
       "month": "January",
@@ -817,7 +817,7 @@
     "id": "5f71e492-1296-433f-a836-82589c2e0320",
     "name": "The Agaped Bearer: Paragon Games",
     "author": "Hannah Taylor Lindsey",
-    "series": null,
+     
     "releaseInfo": {
       "day": 14,
       "month": "January",
@@ -836,7 +836,7 @@
     "id": "75a88c57-5024-481d-b1f0-d2dd8e083d7f",
     "name": "A Song of Salt and Secrets (Mythic Academy Collection)",
     "author": "Amanda Marin",
-    "series": null,
+     
     "releaseInfo": {
       "day": 25,
       "month": "January",
