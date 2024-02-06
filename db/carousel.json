@@ -1,0 +1,90 @@
+[
+  {
+    "id": "715c728e-c582-4bd6-981e-9693af2cc696",
+    "name": "Allegiant",
+    "author": "Veronica Roth",
+    "series": {
+      "seriesTitle": "Divergent",
+      "numberInSeries": "3"
+    },
+    "releaseInfo": {
+      "day": 22,
+      "month": "October",
+      "year": 2013
+    },
+    "description": "Allegiant is the third book in Veronica Roth's series. Tris Prior and Tobias Eaton venture beyond the walls of Chicago, discovering shocking truths about their society and the experiment they've been a part of. The choices they make will change their lives and the fate of their world.",
+    "genre": ["Young Adult", "Dystopian", "Science Fiction"],
+    "ISBN": "9780062024060",
+    "ASIN": "B00BPY3ASI",
+    "editionLanguage": "English",
+    "imageUrl": "https://i.ibb.co/3SVp76W/PDF-EPUB-Allegiant-Divergent-3-Download.jpg",
+    "price": 14.99,
+    "status": "Available"
+  },
+  {
+    "id": "be624747-13b3-4b47-ac96-d84b6f2528f8",
+    "name": "Diary of a Wimpy Kid: Rodrick Rules",
+    "author": "Jeff Kinney",
+    "series": {
+      "seriesTitle": "Diary of a Wimpy Kid",
+      "numberInSeries": "2"
+    },
+    "releaseInfo": {
+      "day": 1,
+      "month": "February",
+      "year": 2008
+    },
+    "description": "Diary of a Wimpy Kid: Rodrick Rules is the second book in the series. Greg Heffley faces new challenges, including dealing with his older brother Rodrick. As Greg navigates the ups and downs of middle school, readers are treated to more of his humorous insights and misadventures.",
+    "genre": ["Children's", "Humor", "Graphic Novel"],
+    "ISBN": "9780810994737",
+    "ASIN": "B0029VJHUM",
+    "editionLanguage": "English",
+    "imageUrl": "https://i.ibb.co/4WKhn89/PDF-EPUB-Rodrick-Rules-Diary-of-a-Wimpy-Kid-2-Download.jpg",
+    "price": 9.99,
+    "status": "Available"
+  },
+  {
+    "id": "4a630d33-fbda-4aaf-89ee-98da6f6fa215",
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "series": {
+      "seriesTitle": "The Hunger Games",
+      "numberInSeries": "1"
+    },
+    "releaseInfo": {
+      "day": 14,
+      "month": "September",
+      "year": 2008
+    },
+    "description": "The Hunger Games is the first novel in Suzanne Collins' dystopian series. It follows the story of Katniss Everdeen, who volunteers to take her sister's place in the Hunger Games, a televised event where children fight to the death as a form of entertainment for the Capitol.",
+    "genre": ["Dystopian", "Science Fiction", "Young Adult"],
+    "ISBN": "9780439023528",
+    "ASIN": "B002MQYOFW",
+    "editionLanguage": "English",
+    "imageUrl": "https://i.ibb.co/6mjYDyC/PDF-EPUB-The-Hunger-Games-The-Hunger-Games-1-Download.jpg",
+    "price": 12.99,
+    "status": "Available"
+  },
+  {
+    "id": "d41f0898-6b86-4e74-aaf1-d3fe493f2693",
+    "name": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "series": {
+      "seriesTitle": "Harry Potter",
+      "numberInSeries": "4"
+    },
+    "releaseInfo": {
+      "day": 8,
+      "month": "July",
+      "year": 2000
+    },
+    "description": "Harry Potter and the Goblet of Fire is the fourth novel in the Harry Potter series. In this book, Harry is unexpectedly entered into the Triwizard Tournament, a magical competition that puts him in grave danger. Dark forces are at play, and Voldemort's return to power becomes more evident as the story progresses.",
+    "genre": ["Fantasy", "Young Adult", "Adventure"],
+    "ISBN": "9780439139601",
+    "ASIN": "B003JTHWKU",
+    "editionLanguage": "English",
+    "imageUrl": "https://i.ibb.co/THLF1c1/PDF-EPUB-Harry-Potter-and-the-Goblet-of-Fire-Harry-Potter-4-Download.jpg",
+    "price": 16.99,
+    "status": "Available"
+  }
+]
