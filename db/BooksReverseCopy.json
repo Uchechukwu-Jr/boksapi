@@ -1,103 +1,5 @@
 [
   {
-    "id": "f7aa52bb-1d96-4f13-86e7-535b2c95684c",
-    "name": "1984",
-    "author": "George Orwell",
-    "releaseInfo": {
-      "day": 8,
-      "month": "June",
-      "year": 1949
-    },
-    "description": "1984 is a dystopian novel by George Orwell that explores the dangers of totalitarianism and the loss of individual freedoms. Set in a future where the government, led by the Party and its leader Big Brother, monitors and controls every aspect of citizens' lives.",
-    "genre": ["Dystopian", "Science Fiction"],
-    "ISBN": "9780451524935",
-    "ASIN": "B003JTHWKU",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/6ZkFbfV/PDF-EPUB-1984-by-George-Orwell-Download.jpg",
-    "price": 12.99,
-    "status": "Available"
-  },
-  {
-    "id": "ed8d2629-34ee-4cfc-b485-1b361dee9595",
-    "name": "The Last Guardian",
-    "author": "Eoin Colfer",
-    "series": {
-      "seriesTitle": "Artemis Fowl",
-      "numberInSeries": "8"
-    },
-    "releaseInfo": {
-      "day": 10,
-      "month": "July",
-      "year": 2012
-    },
-    "description": "Is this Armageddon for the fairy race? Opal Koboi, power-crazed pixie, is plotting to exterminate humankind and become fairy queen. If she succeeds, the spirits of long-dead fairy warriors will rise from the earth, inhabit the nearest available bodies, and wreak mass destruction. But what happens if those nearest bodies include crows, or deer, or badgers—or two curious little boys by the names of Myles and Beckett Fowl?",
-    "genre": ["Young Adult", "Fantasy", "Science Fiction"],
-    "ISBN": "9781423161615",
-    "ASIN": "B007D628H8",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/TBKZn1L/PDF-EPUB-The-Last-Guardian-Artemis-Fowl-8-by-Eoin-Colfer-Download.jpg",
-    "price": 12.99,
-    "status": "Available"
-  },
-  {
-    "id": "c8d2bc6f-0e1d-4546-8afd-6457232fe67e",
-    "name": "Artemis Fowl",
-    "author": "Eoin Colfer",
-    "series": {
-      "seriesTitle": "Artemis Fowl",
-      "numberInSeries": "1"
-    },
-    "releaseInfo": {
-      "day": 26,
-      "month": "April",
-      "year": 2001
-    },
-    "description": "Twelve-year-old Artemis Fowl is a millionaire, a genius, and, above all, a criminal mastermind. But even Artemis doesn't know what he's taken on when he kidnaps a fairy, Captain Holly Short of the LEPrecon Unit. These aren't the fairies of bedtime stories—they're dangerous! Full of unexpected twists and turns, Artemis Fowl is a riveting, magical adventure.",
-    "genre": ["Young Adult", "Fantasy", "Science Fiction"],
-    "ISBN": "9780786808014",
-    "ASIN": "B000FC2GHM",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/VLbjgMQ/PDF-EPUB-Artemis-Fowl-Artemis-Fowl-1-Download.jpg",
-    "price": 9.99,
-    "status": "Available"
-  },
-  {
-    "id": "39e0fd7c-b061-49f3-acc2-ebceb5a52da2",
-    "name": "A Little Life",
-    "author": "Hanya Yanagihara",
-    "releaseInfo": {
-      "day": 10,
-      "month": "March",
-      "year": 2015
-    },
-    "description": "A Little Life is a novel that follows the lives of four college friends living in New York City. At the center of the story is Jude St. Francis, a talented lawyer with a traumatic past. The narrative explores friendship, trauma, and the impact of the past on the present.",
-    "genre": ["Contemporary Fiction", "Drama"],
-    "ISBN": "9780385539258",
-    "ASIN": "B00UG9LCUM",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/xmWvb12/PDF-EPUB-A-Little-Life-Download.jpg",
-    "price": 16.99,
-    "status": "Available"
-  },
-  {
-    "id": "02079fb8-c977-4f6d-8af8-41c68c1ef704",
-    "name": "American Psycho",
-    "author": "Bret Easton Ellis",
-    "releaseInfo": {
-      "day": 25,
-      "month": "March",
-      "year": 1991
-    },
-    "description": "American Psycho is a controversial novel that delves into the life of Patrick Bateman, a wealthy New York City investment banker with a dark and violent double life. The story explores themes of consumerism, identity, and the moral decay of society during the excesses of the 1980s.",
-    "genre": ["Contemporary Fiction", "Psychological Thriller"],
-    "ISBN": "9780679735779",
-    "ASIN": "B003XT60KO",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/NjCZ8wf/PDF-EPUB-American-Psycho-Download.jpg",
-    "price": 15.99,
-    "status": "Available"
-  },
-  {
     "id": "715c728e-c582-4bd6-981e-9693af2cc696",
     "name": "Allegiant",
     "author": "Veronica Roth",
@@ -111,34 +13,16 @@
       "year": 2013
     },
     "description": "Allegiant is the third book in Veronica Roth's series. Tris Prior and Tobias Eaton venture beyond the walls of Chicago, discovering shocking truths about their society and the experiment they've been a part of. The choices they make will change their lives and the fate of their world.",
-    "genre": ["Young Adult", "Dystopian", "Science Fiction"],
+    "genre": [
+      "Young Adult",
+      "Dystopian",
+      "Science Fiction"
+    ],
     "ISBN": "9780062024060",
     "ASIN": "B00BPY3ASI",
     "editionLanguage": "English",
     "imageUrl": "https://i.ibb.co/3SVp76W/PDF-EPUB-Allegiant-Divergent-3-Download.jpg",
     "price": 14.99,
-    "status": "Available"
-  },
-  {
-    "id": "24d2dc1d-9ab6-47c7-a399-fe605219e45b",
-    "name": "The Lost Colony",
-    "author": "Eoin Colfer",
-    "series": {
-      "seriesTitle": "Artemis Fowl",
-      "numberInSeries": "5"
-    },
-    "releaseInfo": {
-      "day": 2,
-      "month": "July",
-      "year": 2006
-    },
-    "description": "Demons are beginning to materialize without warning on Earth. If humans were to capture one, all fairies would be exposed. In order to protect themselves, the fairies must decipher complicated equations to determine where the next demon will appear. Artemis is doing it for a reward, but he starts to suspect that he may be part of a devious plan.",
-    "genre": ["Young Adult", "Fantasy", "Science Fiction"],
-    "ISBN": "9780786849567",
-    "ASIN": "B000VZP82Y",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/HGQzkvp/images.jpg",
-    "price": 11.99,
     "status": "Available"
   },
   {
@@ -155,7 +39,11 @@
       "year": 2011
     },
     "description": "Divergent is the first book in Veronica Roth's dystopian series. In a divided society, Beatrice Prior discovers that she is Divergent, someone who doesn't fit neatly into any faction. As she uncovers the truth about her world, she becomes entangled in a dangerous conspiracy that threatens the stability of society.",
-    "genre": ["Young Adult", "Dystopian", "Science Fiction"],
+    "genre": [
+      "Young Adult",
+      "Dystopian",
+      "Science Fiction"
+    ],
     "ISBN": "9780062024022",
     "ASIN": "B004CFA9RS",
     "editionLanguage": "English",
@@ -177,7 +65,11 @@
       "year": 2008
     },
     "description": "City of Ashes is the second book in Cassandra Clare's series. Clary Fray continues her journey in the Shadowhunter world as dark secrets and conflicts arise. With the mysterious Mortal Cup missing, Clary and her friends face new challenges and confrontations.",
-    "genre": ["Young Adult", "Fantasy", "Urban Fantasy"],
+    "genre": [
+      "Young Adult",
+      "Fantasy",
+      "Urban Fantasy"
+    ],
     "ISBN": "9781416914297",
     "ASIN": "B0013TXA3S",
     "editionLanguage": "English",
@@ -199,7 +91,11 @@
       "year": 2007
     },
     "description": "City of Bones is the first book in Cassandra Clare's urban fantasy series. Clary Fray discovers a hidden world of demons, angels, and Shadowhunters when she witnesses a murder at a club. As she delves into this new reality, Clary realizes she has a unique connection to this supernatural realm.",
-    "genre": ["Young Adult", "Fantasy", "Urban Fantasy"],
+    "genre": [
+      "Young Adult",
+      "Fantasy",
+      "Urban Fantasy"
+    ],
     "ISBN": "9781416955078",
     "ASIN": "B0013TXA5E",
     "editionLanguage": "English",
@@ -221,7 +117,11 @@
       "year": 2006
     },
     "description": "New Moon is the second book in Stephenie Meyer's Twilight series. After an incident puts Bella's life in danger, Edward decides to leave her, sending her into a deep depression. Bella's friendship with Jacob Black grows, revealing more supernatural secrets and putting her in the midst of a vampire-werewolf conflict.",
-    "genre": ["Young Adult", "Romance", "Fantasy"],
+    "genre": [
+      "Young Adult",
+      "Romance",
+      "Fantasy"
+    ],
     "ISBN": "9780316024969",
     "ASIN": "B000OVLFLU",
     "editionLanguage": "English",
@@ -243,7 +143,11 @@
       "year": 2005
     },
     "description": "Twilight is the first novel in Stephenie Meyer's vampire romance series. Isabella Swan moves to the small town of Forks, where she falls in love with Edward Cullen, a mysterious and captivating vampire. Their love faces challenges as they navigate the complexities of the supernatural world.",
-    "genre": ["Young Adult", "Romance", "Fantasy"],
+    "genre": [
+      "Young Adult",
+      "Romance",
+      "Fantasy"
+    ],
     "ISBN": "9780316015844",
     "ASIN": "B000OVLFFE",
     "editionLanguage": "English",
@@ -265,7 +169,11 @@
       "year": 2006
     },
     "description": "The Sea of Monsters is the second book in Rick Riordan's Percy Jackson series. Percy and his friends embark on a dangerous journey to the Sea of Monsters to retrieve the Golden Fleece and save their beloved camp, facing new challenges and encounters with mythical creatures.",
-    "genre": ["Young Adult", "Fantasy", "Mythology"],
+    "genre": [
+      "Young Adult",
+      "Fantasy",
+      "Mythology"
+    ],
     "ISBN": "9781423103349",
     "ASIN": "B002J271ES",
     "editionLanguage": "English",
@@ -287,7 +195,11 @@
       "year": 2005
     },
     "description": "The Lightning Thief is the first book in Rick Riordan's mythological series. Percy Jackson discovers he's a demigod and embarks on a quest to prevent a war among the gods.",
-    "genre": ["Young Adult", "Fantasy", "Mythology"],
+    "genre": [
+      "Young Adult",
+      "Fantasy",
+      "Mythology"
+    ],
     "ISBN": "9780786838653",
     "ASIN": "B002RARXMG",
     "editionLanguage": "English",
@@ -309,7 +221,10 @@
       "year": 1954
     },
     "description": "The Fellowship of the Ring is the first volume of J.R.R. Tolkien's epic fantasy series. Frodo Baggins embarks on a perilous journey to destroy the One Ring and prevent the dark lord Sauron from conquering Middle-earth.",
-    "genre": ["Fantasy", "Epic"],
+    "genre": [
+      "Fantasy",
+      "Epic"
+    ],
     "ISBN": "9780618640157",
     "ASIN": "B0079KG5I2",
     "editionLanguage": "English",
@@ -331,7 +246,11 @@
       "year": 2008
     },
     "description": "Diary of a Wimpy Kid: Rodrick Rules is the second book in the series. Greg Heffley faces new challenges, including dealing with his older brother Rodrick. As Greg navigates the ups and downs of middle school, readers are treated to more of his humorous insights and misadventures.",
-    "genre": ["Children's", "Humor", "Graphic Novel"],
+    "genre": [
+      "Children's",
+      "Humor",
+      "Graphic Novel"
+    ],
     "ISBN": "9780810994737",
     "ASIN": "B0029VJHUM",
     "editionLanguage": "English",
@@ -353,7 +272,11 @@
       "year": 2007
     },
     "description": "Diary of a Wimpy Kid is the first book in the hilarious and popular series by Jeff Kinney. It chronicles the middle school life of Greg Heffley through words and simple drawings in his diary. Greg navigates the challenges of adolescence, family, and friendship with humor and relatability.",
-    "genre": ["Children's", "Humor", "Graphic Novel"],
+    "genre": [
+      "Children's",
+      "Humor",
+      "Graphic Novel"
+    ],
     "ISBN": "9780810993136",
     "ASIN": "B002Q6XUE4",
     "editionLanguage": "English",
@@ -372,7 +295,11 @@
       "year": 1960
     },
     "description": "To Kill a Mockingbird is a classic novel by Harper Lee. Set in the fictional town of Maycomb, Alabama, during the Great Depression, the story follows the Finch family, particularly the young Scout Finch, as her father, Atticus Finch, defends a black man accused of raping a white woman.",
-    "genre": ["Classic", "Fiction", "Coming-of-Age"],
+    "genre": [
+      "Classic",
+      "Fiction",
+      "Coming-of-Age"
+    ],
     "ISBN": "9780061120084",
     "ASIN": "B0064NLWEG",
     "editionLanguage": "English",
@@ -394,7 +321,11 @@
       "year": 2014
     },
     "description": "After We Collided is the second book in Anna Todd's After series. Tessa and Hardin's tumultuous relationship continues as they face new challenges and obstacles. Secrets from the past come to light, and the intensity of their connection is put to the test. Can their love survive the complexities and hardships that lie ahead?",
-    "genre": ["Romance", "New Adult", "Contemporary"],
+    "genre": [
+      "Romance",
+      "New Adult",
+      "Contemporary"
+    ],
     "ISBN": "9781476792491",
     "ASIN": "B00L6B08WI",
     "editionLanguage": "English",
@@ -416,7 +347,11 @@
       "year": 2014
     },
     "description": "After is the first novel in Anna Todd's After series. Tessa Young, a dedicated student with a sweet boyfriend, enters college with high hopes. However, her life takes an unexpected turn when she meets the mysterious and brooding Hardin Scott. As their passionate and tumultuous relationship unfolds, Tessa discovers a world beyond her imagination.",
-    "genre": ["Romance", "New Adult", "Contemporary"],
+    "genre": [
+      "Romance",
+      "New Adult",
+      "Contemporary"
+    ],
     "ISBN": "9781476792484",
     "ASIN": "B00DQYD0NK",
     "editionLanguage": "English",
@@ -438,7 +373,11 @@
       "year": 2010
     },
     "description": "Mockingjay is the third and final book in Suzanne Collins' Hunger Games trilogy. The story follows Katniss Everdeen as she becomes the symbol of the rebellion against the Capitol. War unfolds, and Katniss must make difficult choices that will determine the fate of Panem.",
-    "genre": ["Dystopian", "Science Fiction", "Young Adult"],
+    "genre": [
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
     "ISBN": "9780439023511",
     "ASIN": "B003XF1XOQ",
     "editionLanguage": "English",
@@ -460,7 +399,11 @@
       "year": 2009
     },
     "description": "Catching Fire is the second novel in Suzanne Collins' Hunger Games trilogy. Following the events of the first book, Katniss Everdeen becomes a symbol of rebellion against the oppressive Capitol. As the 75th Hunger Games (Quarter Quell) approaches, Katniss finds herself once again thrust into the deadly arena.",
-    "genre": ["Dystopian", "Science Fiction", "Young Adult"],
+    "genre": [
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
     "ISBN": "9780439023498",
     "ASIN": "B003O86FMW",
     "editionLanguage": "English",
@@ -482,7 +425,11 @@
       "year": 2008
     },
     "description": "The Hunger Games is the first novel in Suzanne Collins' dystopian series. It follows the story of Katniss Everdeen, who volunteers to take her sister's place in the Hunger Games, a televised event where children fight to the death as a form of entertainment for the Capitol.",
-    "genre": ["Dystopian", "Science Fiction", "Young Adult"],
+    "genre": [
+      "Dystopian",
+      "Science Fiction",
+      "Young Adult"
+    ],
     "ISBN": "9780439023528",
     "ASIN": "B002MQYOFW",
     "editionLanguage": "English",
@@ -504,7 +451,11 @@
       "year": 2000
     },
     "description": "Harry Potter and the Goblet of Fire is the fourth novel in the Harry Potter series. In this book, Harry is unexpectedly entered into the Triwizard Tournament, a magical competition that puts him in grave danger. Dark forces are at play, and Voldemort's return to power becomes more evident as the story progresses.",
-    "genre": ["Fantasy", "Young Adult", "Adventure"],
+    "genre": [
+      "Fantasy",
+      "Young Adult",
+      "Adventure"
+    ],
     "ISBN": "9780439139601",
     "ASIN": "B003JTHWKU",
     "editionLanguage": "English",
@@ -526,7 +477,11 @@
       "year": 1999
     },
     "description": "Harry Potter and the Prisoner of Azkaban is the third novel in the Harry Potter series. In this book, Harry returns to Hogwarts for his third year and learns that Sirius Black, a dangerous prisoner, has escaped from Azkaban and is believed to be after him. The story unfolds with twists and turns, revealing dark secrets about Harry's past.",
-    "genre": ["Fantasy", "Young Adult", "Adventure"],
+    "genre": [
+      "Fantasy",
+      "Young Adult",
+      "Adventure"
+    ],
     "ISBN": "9780439655484",
     "ASIN": "B003JTHWKU",
     "editionLanguage": "English",
@@ -548,7 +503,11 @@
       "year": 1997
     },
     "description": "Harry Potter and the Sorcerer's Stone is the first novel in the Harry Potter series. It follows the story of a young wizard, Harry Potter, who discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry. Along with his friends, Harry uncovers a dark mystery surrounding the Sorcerer's Stone.",
-    "genre": ["Fantasy", "Young Adult", "Adventure"],
+    "genre": [
+      "Fantasy",
+      "Young Adult",
+      "Adventure"
+    ],
     "ISBN": "9780590353427",
     "ASIN": "B003JTHWKU",
     "editionLanguage": "English",
@@ -570,7 +529,11 @@
       "year": 2009
     },
     "description": "The Lost Symbol is a thriller novel by Dan Brown. In this installment of the Robert Langdon series, Langdon is summoned to Washington, D.C., where his mentor Peter Solomon has been kidnapped. Langdon discovers that Solomon is a prominent Mason and is tasked with solving a series of puzzles to save him.",
-    "genre": ["Mystery", "Thriller", "Conspiracy Fiction"],
+    "genre": [
+      "Mystery",
+      "Thriller",
+      "Conspiracy Fiction"
+    ],
     "ISBN": "9780385504225",
     "ASIN": "B003F3PM80",
     "editionLanguage": "English",
@@ -589,7 +552,11 @@
       "year": 1813
     },
     "description": "Pride and Prejudice is a romantic novel by Jane Austen that follows the character of Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency.",
-    "genre": ["Classic", "Romance", "Satire"],
+    "genre": [
+      "Classic",
+      "Romance",
+      "Satire"
+    ],
     "ISBN": "9780141439518",
     "ASIN": "B003JTHWKU",
     "editionLanguage": "English",
@@ -611,7 +578,11 @@
       "year": 2000
     },
     "description": "Angels & Demons is a thriller novel by Dan Brown. It follows symbologist Robert Langdon as he investigates the murder of a physicist and the theft of antimatter from a Swiss research facility. Langdon uncovers a conspiracy that involves the Illuminati and a plot to destroy the Vatican during a papal conclave.",
-    "genre": ["Mystery", "Thriller", "Conspiracy Fiction"],
+    "genre": [
+      "Mystery",
+      "Thriller",
+      "Conspiracy Fiction"
+    ],
     "ISBN": "9780743493468",
     "ASIN": "B003MC5N28",
     "editionLanguage": "English",
@@ -633,7 +604,11 @@
       "year": 2003
     },
     "description": "The Da Vinci Code is a mystery thriller novel by Dan Brown. It follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum and discover a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ having been married to Mary Magdalene.",
-    "genre": ["Mystery", "Thriller", "Conspiracy Fiction"],
+    "genre": [
+      "Mystery",
+      "Thriller",
+      "Conspiracy Fiction"
+    ],
     "ISBN": "9780307474278",
     "ASIN": "B003MC5N28",
     "editionLanguage": "English",
@@ -652,7 +627,11 @@
       "year": 1925
     },
     "description": "The Great Gatsby is a novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922. The story explores the themes of decadence, idealism, and the American Dream.",
-    "genre": ["Classic", "Fiction", "Literary Fiction"],
+    "genre": [
+      "Classic",
+      "Fiction",
+      "Literary Fiction"
+    ],
     "ISBN": "9780743273565",
     "ASIN": "B000FC0PBC",
     "editionLanguage": "English",
@@ -671,7 +650,11 @@
       "year": 2019
     },
     "description": "Alicia Berenson’s life is seemingly perfect. A famous painter married to an in-demand fashion photographer, she lives in a grand house with big windows overlooking a park in one of London’s most desirable areas. One evening, her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face and then never speaks another word.",
-    "genre": ["Mystery", "Thriller", "Psychological Thriller"],
+    "genre": [
+      "Mystery",
+      "Thriller",
+      "Psychological Thriller"
+    ],
     "ISBN": "9781250301697",
     "ASIN": "B07D2C3RVW",
     "editionLanguage": "English",
@@ -717,7 +700,9 @@
       "year": 1983
     },
     "description": "Y entonces les vio el rostro y chillo horrorizado porque eran monstruos descarnados que no podian estar alli El hombre lanzo un tajo con la espada Oyo el silbido del acero y de modo instintivo apreto el gatillo El tremendo estampido de la pistola retumbo en el silencio igual que un cataclismo pero la aparicion no cayo Apenas tuvo tiempo de asimilar el terror de captar la horrible realidad antes de que la espada cayera sobre el como un rayo",
-    "genre": ["Fiction"],
+    "genre": [
+      "Fiction"
+    ],
     "ISBN": "",
     "ASIN": "",
     "editionLanguage": "Spanish",
@@ -736,7 +721,9 @@
       "year": 2014
     },
     "description": "Decembre 2012, Bretagne.Un nouveau meurtrier sevit au pays des contes et des sombres legendes, des vents qui malmenent les coeurs et de la brume qui etouffe les ames. Un meurtrier sans pitie, un meurtrier sacrilege. Un meurtrier qui s’en prend a la source meme de la vie : les femmes enceintes. Quatre ont ete retrouvees eventrees, le foetus arrache a leurs entrailles et porte disparu. Requisitionne pour diriger cette sordide enquete, le commandant Gabriel Gerfaut de la Brigade Criminelle de Paris se rend a Guingamp pour tenter d’elucider ces crimes. Des crimes odieux qui le menent bientot sur la piste d’une mysterieuse confrerie extremement puissante qui, murmure-t-on, serait au service du grand Maitre de l’Enfer : le Diable lui-meme…",
-    "genre": ["Fiction"],
+    "genre": [
+      "Fiction"
+    ],
     "ISBN": "9782280301343",
     "ASIN": "2280301342",
     "editionLanguage": "French",
@@ -758,7 +745,11 @@
       "year": 2021
     },
     "description": "He has a heart of ice…but for her, he’d burn the world. Alex Volkov is a devil blessed with the face of an angel and cursed with a past he can’t escape. Driven by a tragedy that has haunted him for most of his life, his ruthless pursuits for success and vengeance leave little room for matters of the heart. But when he’s forced to look after his best friend’s sister, he starts to feel something in his chest: A crack. A melt. A fire that could end his world as he knew it. *** Ava Chen is a free spirit trapped by nightmares of a childhood she can’t remember. But despite her broken past, she’s never stopped seeing the beauty in the world…including the heart beneath the icy exterior of a man she shouldn’t want. Her brother’s best friend. Her neighbor. Her savior and her downfall. Theirs is a love that was never supposed to happen—but when it does, it unleashes secrets that could destroy them both…and everything they hold dear. Twisted Love is a brother’s best friend opposites attract romance with a hint of suspense. It’s book one in the Twisted series but can be read as a standalone. WARNING: This book contains a possessive, morally gray alphahole; explicit sexual content, and profanity. No cheating or menage, but if you’re looking for a traditionally sweet, loveable hero, this is not the book for you. Recommended for 18+.",
-    "genre": ["Contemporary", "Adult", "Romance"],
+    "genre": [
+      "Contemporary",
+      "Adult",
+      "Romance"
+    ],
     "ISBN": "",
     "ASIN": "",
     "editionLanguage": "English",
@@ -780,7 +771,11 @@
       "year": 2023
     },
     "description": "After centuries of being kept in a prison a Darkness waged war on the Realms of Onyx. Only having a nursery rhyme to go on, Asterius and Emberly must embrace their destinies and come together to defeat it. Will they be able to? Will their love survive the challenges ahead? Will the family they find help them, or will secrets tear them a part.",
-    "genre": ["Fiction", "Sci-Fi", "Fantasy"],
+    "genre": [
+      "Fiction",
+      "Sci-Fi",
+      "Fantasy"
+    ],
     "ISBN": "",
     "ASIN": "B0CJ13CVP9",
     "editionLanguage": "English",
@@ -824,7 +819,11 @@
       "year": 2024
     },
     "description": "Ever since Lisa Robbie became the Agaped Bearer last year, she has dreamed of becoming a Hero–a mighty Mage who uses her magic to save the galaxies and slay Darkness. But after she returns to Boolavogue to continue her training with Gaius and the Hunters, she begins to doubt if she is even worthy of such a grand title after a real Hero visits the Kingdom. After all, Heroes are always confident, rippled with muscles, and gallant with smiles even in the face of fear. They especially don’t have nightmares on a weekly basis or fear talking with their own peers… right?I couldn’t even defeat Darkness without Gaius’ help, so how could I ever save a life, a town, or even a country all on my own? I can’t even win a spar against the brawny Keeper of Stars!As the yearly Paragon Games returns, grabbing the attention of every magical heart on Planet Kalm, something else is stirring underneath the pageantry of the magical sport. These gladiator games are meant for fun, but as Lisa becomes more invested in the battles and players, she lets curiosity take control of her actions and begins to unravel secrets that risk more than her life.A new fire burns inside Lisa, and now, it doesn’t matter if she is good enough to become Hero. She has to be, or the Agaped Magic will be lost forever.",
-    "genre": ["Fiction", "Sci-Fi", "Fantasy"],
+    "genre": [
+      "Fiction",
+      "Sci-Fi",
+      "Fantasy"
+    ],
     "ISBN": "9798988442400",
     "ASIN": "B0CQJVFFVN",
     "editionLanguage": "English",
@@ -843,7 +842,11 @@
       "year": 2024
     },
     "description": "There’s one thing more powerful than true love’s kiss.For Corisande Phillips, being a siren has meant living a cursed life, a lonely life–a life plagued by the fear of hurting someone with her deadly song. At Magwitch Academy, she has learned to control her urge to sing … for the most part, anyway.But when a moment of weakness gets the best of her, Corisande accidentally causes Noah, a student at a nearby prep school, to crash his sailboat, unleashing the fury of the sea–and an ancient goddess who will not be robbed of her revenge. Only Noah’s love has the power to save Corisande, but how can he ever learn to care for a monster like her?A Song of Salt and Secrets is a standalone novella-length story.",
-    "genre": ["Fiction", "Children", "Young Adult"],
+    "genre": [
+      "Fiction",
+      "Children",
+      "Young Adult"
+    ],
     "ISBN": "9781734505894",
     "ASIN": "B0BR4F23MX",
     "editionLanguage": "English",
@@ -865,7 +868,12 @@
       "year": 2024
     },
     "description": "Death wants his missing souls back–and he’s ordered me to find them.If I fail, Limbo will descend into chaos, trapping his reluctant consort, my sister, with him forever…If that wasn’t bad enough, vengeful spirits are targeting the male I’m hopelessly in love with. Ren’s already been through hell and I won’t let the self-destructive fox shifter get hurt again, even if being near him is pure torture.Ren insists on returning the favor. He’ll help with my task while I use my powers to soothe his scarred soul. I know the explosive chemistry between us is just a cruel side effect of my magic, but I can’t resist him.Now all I want to do is retreat, but healing Ren is more important than my wounded heart–leaving me with only one choice.Stop loving him.By whatever means necessary…",
-    "genre": ["Fantasy", "Paranormal", "Paranormal Romance", "Witches"],
+    "genre": [
+      "Fantasy",
+      "Paranormal",
+      "Paranormal Romance",
+      "Witches"
+    ],
     "ISBN": "9781991180643",
     "ASIN": "B0C8TC6B2R",
     "editionLanguage": "English",
@@ -874,237 +882,79 @@
     "status": "Available"
   },
   {
-    "id": "e44909bb-b16f-4276-a26a-00c958afc173",
-    "name": "The Hitchhiker's Guide to the Galaxy",
-    "author": "Douglas Adams",
-    "releaseInfo": {
-      "day": 12,
-      "month": "October",
-      "year": 1979
+    "id": "056eab4e-df3c-43b3-9bd3-ec9068be083c",
+    "name": "How to Get Away with murder",
+    "author": "Amoke Donald ",
+    "series": {
+      "seriesTitle": "My ",
+      "numberInSeries": "6"
     },
-    "description": "The Hitchhiker's Guide to the Galaxy is a comedic science fiction series that follows the misadventures of an unwitting human, Arthur Dent, who is swept off Earth just before it is demolished to make way for a hyperspace bypass.",
-    "genre": ["Science Fiction", "Humor"],
-    "ISBN": "9780345418913",
-    "ASIN": "B000UV4IPU",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/GvRGFz9/047c9878-9845-473c-9635-5f32545746b0-1355x2040.webp",
-    "price": 10.99,
+    "releaseInfo": {
+      "day": 4,
+      "month": "02",
+      "year": 2024
+    },
+    "description": "stujkstastgjsgjxkdh fyidyid gufyudtydjhk oguorfyi",
+    "genre": [
+      "mty",
+      "mtyu",
+      "kuot"
+    ],
+    "ISBN": "yiyiryieyid6",
+    "ASIN": "275e452",
+    "editionLanguage": "tteeteaee",
+    "imageUrl": "qerrqtqet",
+    "price": "2234",
     "status": "Available"
   },
   {
-    "id": "8da49ca4-8728-4174-9c17-7ce5fd64252e",
-    "name": "The Kite Runner",
-    "author": "Khaled Hosseini",
+    "id": "b601a69a-e711-4324-8bdb-1ff3a292c4e3",
+    "name": "how to kill",
+    "author": "Amoke Donald ",
+    "series": null,
     "releaseInfo": {
-      "day": 29,
-      "month": "May",
-      "year": 2003
+      "day": 4,
+      "month": "February",
+      "year": 2024
     },
-    "description": "The Kite Runner is a novel that explores themes of friendship, betrayal, and redemption. Set against the backdrop of the political upheavals in Afghanistan, it follows the intertwined lives of two childhood friends, Amir and Hassan.",
-    "genre": ["Historical Fiction", "Drama"],
-    "ISBN": "9781573222457",
-    "ASIN": "B000OCXGZO",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/cwWTV9h/PDF-EPUB-The-Kite-Runner-Download.jpg",
-    "price": 14.99,
+    "description": "lujguofgjlsdfguogfc rjlrjlgqg;piypiwepiwr ffjpirhpiwie ngnpiheihtw[qypiyt-i[",
+    "genre": [
+      "hhfjafud",
+      "svhkahkdfuk",
+      "ljgdjkfgdl"
+    ],
+    "ISBN": "AAAFJLGjlfgd",
+    "ASIN": "khfDFYIf",
+    "editionLanguage": "JVDgljL",
+    "imageUrl": "AAGSDGSGSFGddfhdhd",
+    "price": "11",
     "status": "Available"
   },
   {
-    "id": "b393af36-07ea-49d1-885b-875e448ee5b2",
-    "name": "The Night Circus",
-    "author": "Erin Morgenstern",
-    "releaseInfo": {
-      "day": 13,
-      "month": "September",
-      "year": 2011
+    "id": "dfe15f8a-1a35-4b37-a539-980e13e87bbf",
+    "name": "How to Get Away with murder",
+    "author": "Amoke Donald",
+    "series": {
+      "seriesTitle": "My",
+      "numberInSeries": "1"
     },
-    "description": "The Night Circus is a magical novel that tells the story of a mysterious circus that appears at night without any warning. Within its black-and-white striped tents, magical duels unfold between two young illusionists, Celia and Marco, who are bound by a deep and powerful connection.",
-    "genre": ["Fantasy", "Romance"],
-    "ISBN": "9780385534635",
-    "ASIN": "B003WUYROK",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/WKFKVwd/PDF-EPUB-The-Night-Circus-Download.jpg",
-    "price": 11.99,
-    "status": "Available"
-  },
-  {
-    "id": "e2f5de07-2e43-4b1d-8f0b-ba0679b220a6",
-    "name": "The Alchemist",
-    "author": "Paulo Coelho",
     "releaseInfo": {
-      "day": 1,
-      "month": "April",
-      "year": 1988
+      "day": 4,
+      "month": "February",
+      "year": 2024
     },
-    "description": "The Alchemist is a philosophical novel that follows Santiago, a shepherd boy, on his journey to discover his personal legend. Through his adventures, Santiago learns about the importance of pursuing one's dreams and understanding the language of the universe.",
-    "genre": ["Fiction", "Philosophy"],
-    "ISBN": "9780061122415",
-    "ASIN": "B000FCKCXC",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/kh3VP1v/web-9-1.jpg",
-    "price": 10.99,
-    "status": "Available"
-  },
-  {
-    "id": "2eb5623a-fa61-4985-9d39-8e66df33bd75",
-    "name": "The Book Thief",
-    "author": "Markus Zusak",
-    "releaseInfo": {
-      "day": 14,
-      "month": "March",
-      "year": 2006
-    },
-    "description": "The Book Thief is a novel narrated by Death and set in Nazi Germany. It tells the story of Liesel Meminger, a young girl living with her foster parents, who develops a love for books and words during a time of war and adversity.",
-    "genre": ["Historical Fiction", "Drama"],
-    "ISBN": "9780375842207",
-    "ASIN": "B000SEIJPY",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/5khr4cm/PDF-EPUB-The-Book-Thief-Download.jpg",
-    "price": 13.99,
-    "status": "Available"
-  },
-  {
-    "id": "b1cd07e4-5bd6-401d-bb97-354ab150823e",
-    "name": "Eleanor Oliphant Is Completely Fine",
-    "author": "Gail Honeyman",
-    "releaseInfo": {
-      "day": 9,
-      "month": "May",
-      "year": 2017
-    },
-    "description": "Eleanor Oliphant Is Completely Fine is a novel that follows the life of Eleanor Oliphant, a socially awkward and solitary woman. As she navigates her routine and observes the world around her, unexpected events unfold, leading to a journey of self-discovery and connection.",
-    "genre": ["Contemporary Fiction"],
-    "ISBN": "9780735220690",
-    "ASIN": "B01KGZVTOE",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/J53JJDp/PDF-EPUB-Eleanor-Oliphant-Is-Completely-Fine-Download.jpg",
-    "price": 14.99,
-    "status": "Available"
-  },
-  {
-    "id": "c581128e-0221-4cf3-a812-5b8bfcb11638",
-    "name": "The Girl on the Train",
-    "author": "Paula Hawkins",
-    "releaseInfo": {
-      "day": 13,
-      "month": "January",
-      "year": 2015
-    },
-    "description": "The Girl on the Train is a psychological thriller that revolves around Rachel, an alcoholic woman who becomes entangled in a missing person investigation. As she tries to uncover the truth, the story explores themes of obsession, deceit, and the complexities of memory.",
-    "genre": ["Mystery", "Thriller"],
-    "ISBN": "9781594634024",
-    "ASIN": "B00TY3ZMVG",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/XJ3G2x3/PDF-EPUB-The-Girl-on-the-Train-Download.jpg",
-    "price": 12.99,
-    "status": "Available"
-  },
-  {
-    "id": "c4e92809-f9a5-42de-85c9-e694807b729a",
-    "name": "The Secret Life of Bees",
-    "author": "Sue Monk Kidd",
-    "releaseInfo": {
-      "day": 8,
-      "month": "November",
-      "year": 2001
-    },
-    "description": "The Secret Life of Bees is a novel set in the 1960s South Carolina, following the journey of Lily Owens, a young girl who escapes her troubled life with her caregiver, Rosaleen. They embark on a journey that leads them to a community of beekeeping sisters and unravels secrets about Lily's past.",
-    "genre": ["Historical Fiction", "Coming-of-Age"],
-    "ISBN": "9780142001745",
-    "ASIN": "B000FCK5Y4",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/L0cj3s7/PDF-EPUB-The-Secret-Life-of-Bees-Download.jpg",
-    "price": 11.99,
-    "status": "Available"
-  },
-  {
-    "id": "355b6243-80aa-4819-94e8-7427ff755567",
-    "name": "One Hundred Years of Solitude",
-    "author": "Gabriel García Márquez",
-    "releaseInfo": {
-      "day": 30,
-      "month": "May",
-      "year": 1967
-    },
-    "description": "One Hundred Years of Solitude is a landmark novel in magical realism that traces the Buendía family over several generations in the fictional town of Macondo. Richly layered with magical elements, the narrative explores the complex tapestry of love, politics, and destiny.",
-    "genre": ["Magical Realism", "Fiction"],
-    "ISBN": "9780061120091",
-    "ASIN": "B000VZV3KS",
-    "editionLanguage": "Spanish",
-    "imageUrl": "https://i.ibb.co/423C6vf/PDF-EPUB-One-Hundred-Years-of-Solitude-Download.jpg",
-    "price": 15.99,
-    "status": "Available"
-  },
-  {
-    "id": "dea4bf6c-c858-405f-bc70-2f97761204bd",
-    "name": "Life of Pi",
-    "author": "Yann Martel",
-    "releaseInfo": {
-      "day": 11,
-      "month": "September",
-      "year": 2001
-    },
-    "description": "Life of Pi is an adventure novel that follows the journey of Pi Patel, a young Indian boy who survives a shipwreck in the Pacific Ocean. Stranded on a lifeboat with a Bengal tiger named Richard Parker, Pi faces the challenges of survival, faith, and storytelling.",
-    "genre": ["Adventure", "Fantasy"],
-    "ISBN": "9780156027328",
-    "ASIN": "B007T7OVS0",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/6D3vxvx/PDF-EPUB-Life-of-Pi-Download.jpg",
-    "price": 13.99,
-    "status": "Available"
-  },
-  {
-    "id": "0937b1d3-9ea7-40d3-99e9-2d6c98d1ae10",
-    "name": "The Road",
-    "author": "Cormac McCarthy",
-    "releaseInfo": {
-      "day": 26,
-      "month": "September",
-      "year": 2006
-    },
-    "description": "The Road is a post-apocalyptic novel that follows a father and his young son as they journey across a desolate, ash-covered landscape. Their struggle for survival and the bond between them are at the heart of this haunting and deeply moving narrative.",
-    "genre": ["Post-Apocalyptic", "Fiction"],
-    "ISBN": "9780307387899",
-    "ASIN": "B000UH4PWA",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/Thy7THy/PDF-EPUB-The-Road-by-Cormac-Mc-Carthy-Download.jpg",
-    "price": 14.99,
-    "status": "Available"
-  },
-  {
-    "id": "e82d02b5-abb6-4e81-b1ba-1659aaebdb1e",
-    "name": "The Shadow of the Wind",
-    "author": "Carlos Ruiz Zafón",
-    "releaseInfo": {
-      "day": 25,
-      "month": "April",
-      "year": 2001
-    },
-    "description": "The Shadow of the Wind is a gothic mystery novel set in post-World War II Barcelona. It follows young Daniel Sempere as he discovers a novel by an obscure author, only to realize that someone is systematically destroying every book written by that author.",
-    "genre": ["Historical Fiction", "Mystery"],
-    "ISBN": "9780143034902",
-    "ASIN": "B00109ZDFE",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/2vjhCMw/PDF-EPUB-The-Shadow-of-the-Wind-The-Cemetery-of-Forgotten-Books-1-Download.jpg",
-    "price": 12.99,
-    "status": "Available"
-  },
-  {
-    "id": "0332be11-5a77-4189-a978-98fb49dbafcd",
-    "name": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "releaseInfo": {
-      "day": 21,
-      "month": "September",
-      "year": 1937
-    },
-    "description": "The Hobbit, or There and Back Again, is a fantasy novel that follows the journey of Bilbo Baggins, a hobbit who is reluctantly drawn into an epic quest to help a group of dwarves reclaim their homeland from the fearsome dragon Smaug. Along the way, Bilbo encounters magical creatures, battles, and discovers the One Ring.",
-    "genre": ["Fantasy", "Adventure"],
-    "ISBN": "9780345339683",
-    "ASIN": "B00H0FFT0U",
-    "editionLanguage": "English",
-    "imageUrl": "https://i.ibb.co/W6kVyvh/PDF-EPUB-The-Hobbit-Part-One-Download.jpg",
-    "price": 14.99,
-    "status": "Available"
+    "description": "hoe to the sky",
+    "genre": [
+      "kd",
+      "kfd",
+      "hff",
+      ""
+    ],
+    "ISBN": "85342846517",
+    "ASIN": "khfDFYIf",
+    "editionLanguage": "latin",
+    "imageUrl": "https://i.ibb.co/3SVp76W/PDF-EPUB-Allegiant-Divergent-3-Download.jpg",
+    "price": "43",
+    "status": "Not Available"
   }
 ]

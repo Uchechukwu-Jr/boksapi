@@ -1,12 +1,14 @@
 const express = require("express");
 const cors = require("cors");
+const { v4: uuidv4 } = require("uuid");
 const app = express();
 const port = 3000;
-//const books = require("./db/books");
 const Data = require("./Data.json");
-const Books = require("./db/BooksReverse.json");
+const fs = require("fs");
+const Books = require("./db/BooksReverseCopy.json");
 
 app.use(cors());
+app.use(express.json());
 
 //get all books with optional limit
 app.get("/api/books", (req, res) => {
@@ -15,6 +17,44 @@ app.get("/api/books", (req, res) => {
     res.json(Books.slice(0, limit));
   } else {
     res.json(Books);
+  }
+});
+
+// Add a new route for posting a new book
+app.post("/api/books", (req, res) => {
+  try {
+    const newBook = req.body;
+
+    if (!newBook.name || !newBook.author) {
+      return res
+        .status(400)
+        .json({ error: "Name and Author are required fields." });
+    }
+
+    newBook.name = newBook.name.trim();
+    newBook.author = newBook.author.trim();
+    newBook.ISBN = newBook.ISBN.trim();
+    newBook.ASIN = newBook.ASIN.trim();
+    newBook.editionLanguage = newBook.editionLanguage.trim();
+    newBook.imageUrl = newBook.imageUrl.trim();
+
+    if (newBook.series) {
+      newBook.series.seriesTitle = newBook.series.seriesTitle.trim();
+      newBook.series.numberInSeries = newBook.series.numberInSeries.trim();
+    }
+
+    newBook.id = uuidv4();
+    Books.push(newBook);
+    fs.writeFileSync(
+      "./db/BooksReverseCopy.json",
+      JSON.stringify(Books, null, 2)
+    );
+
+    res.status(201).json(newBook);
+    console.log("Added book and updated JSON file");
+  } catch (error) {
+    console.error("Error adding book:", error.message);
+    res.status(500).json({ error: "Internal Server Error" });
   }
 });
 
